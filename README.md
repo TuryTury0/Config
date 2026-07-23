@@ -14,7 +14,7 @@ A tool that pulls proxy configs from different sources, organizes them, and chec
 ## Quick start
 
 ```bash
-git clone https://github.com/TuryTury0/Config.git
+git clone https://github.com/TuryTury0/FreeConfig.git
 cd anythings-by-tury
 npm install
 npm run dev
