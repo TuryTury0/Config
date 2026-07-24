@@ -17,7 +17,8 @@ A tool that pulls proxy configs from different sources, organizes them, and chec
 git clone https://github.com/TuryTury0/FreeConfig.git
 cd FreeConfig
 npm install
-npm run dev
+npm run build
+npm start
 ```
 Open `http://localhost:3000`. API runs on port `4000`.
 
